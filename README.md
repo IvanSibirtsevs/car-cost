@@ -1,10 +1,10 @@
-# Определение стоимости автомобилей
+# Determining the cost of cars
 
-**Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.*
+**Used car sales service "Not beaten, not beautiful" is developing an application to attract new customers. In it, you can quickly find out the market value of your car. At your disposal are historical data: technical specifications, equipment and prices of cars. You need to build a model to determine the cost.*
 
-## Описания проекта
+## Project descriptions
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Определение стоимости автомобилей](computer-games) | Нужно построить модель для определения стоимостиу | *pandas, sklearn, numpy, catboost, lightgbm, xgboost, matplotlib, seaborn* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Determining the cost of cars](https://github.com/limenbah/car-cost/tree/main/car-cost) | Need to build a model to determine the value | | *pandas, sklearn, numpy, catboost, lightgbm, xgboost, matplotlib, seaborn* |
