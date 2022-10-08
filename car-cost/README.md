@@ -2,7 +2,7 @@
 
 *Used car sales service "Not beaten, not beautiful" is developing an application to attract new customers. In it, you can quickly find out the market value of your car. At your disposal are historical data: technical specifications, equipment and prices of cars. You need to build a model to determine the cost.*
 
-*** Important to the customer: ***
+***Important to the customer:***
 - quality of prediction;
 - prediction speed;
 - studying time.
