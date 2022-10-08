@@ -7,4 +7,4 @@
 
 | Project name | Description | Used Libraries |
 | :--------------------- | :--------------------- | :--------------------- |
-| [Determining the cost of cars](https://github.com/limenbah/car-cost/tree/main/car-cost) | Need to build a model to determine the value | | *pandas, sklearn, numpy, catboost, lightgbm, xgboost, matplotlib, seaborn* |
+| [Determining the cost of cars](https://github.com/limenbah/car-cost/tree/main/car-cost) | Need to build a model to determine the value | | pandas, sklearn, numpy, catboost, lightgbm, xgboost, matplotlib, seaborn |
